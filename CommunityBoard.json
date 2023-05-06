@@ -20,7 +20,7 @@
     ]
   },
   "CurrentAnnouncement": {
-    "Message": "welcome to rec room 2020",
+    "Message": "New API let go",
     "MoreInfoUrl": ""
   },
   "InstagramImages": [
@@ -76,22 +76,23 @@
   ],
   "Videos": [
     {
-      "BlobName": "3df61ec3bd7e4c7c8782c33669c2c4b8",
-      "Title": "Times that i can redo",
+      "BlobName": "https://youtu.be/LvJycGgNUKY",
+      "Title": "test api youtu.be",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "1f4a771cd720413d8dd38cc4f23ae292",
-      "Title": "idk",
+      "BlobName": "https://cdn.rec.net/video/1f4a771cd720413d8dd38cc4f23ae292
+",
+      "Title": "test api rec.net",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "4d785fe9f3034b799aad869bfadb7664",
-      "Title": "funny video",
+      "BlobName": "https://cdn.discordapp.com/attachments/1041777843811659868/1104119086444728340/bin_laden_1.mp4",
+      "Title": "test api discord",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "Community/Videos/1.jpg",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
