@@ -76,15 +76,15 @@
   ],
   "Videos": [
     {
-      "BlobName": "https://youtu.be/LvJycGgNUKY",
-      "Title": "test api youtu.be",
+      "BlobName": "https://cdn.discordapp.com/attachments/1041777843811659868/1104830749959528583/CGLSzi0.mov",
+      "Title": "idk",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "https://cdn.rec.net/video/1f4a771cd720413d8dd38cc4f23ae292",
-      "Title": "test api rec.net",
+      "BlobName": "https://cdn.rec.net/video/3df61ec3bd7e4c7c8782c33669c2c4b8",
+      "Title": "idk",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
