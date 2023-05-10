@@ -1,0 +1,2 @@
+(Video = https://ogfishiesyt.github.io/video/RR2020/)
+(CommunityBoard = https://ogfishiesyt.github.io/RR2020.github.io/CommunityBoard.json)
