@@ -20,8 +20,8 @@
     ]
   },
   "CurrentAnnouncement": {
-    "Message": "New API let go",
-    "MoreInfoUrl": ""
+    "Message": "OpenRecV2-2020 Is here!",
+    "MoreInfoUrl": "https://discord.gg/m3nEjDhXWd"
   },
   "InstagramImages": [
     {
@@ -90,11 +90,11 @@
       "SourceUrl": "https://www.youtube.com/watch?v=Lm0ffwmXgSc"
     },
     {
-      "BlobName": "https://ogfishiesyt.github.io/video/RR2020/ww3.mp4",
-      "Title": "ww3",
+      "BlobName": "http://ogfishiesyt.github.io/video/RR2020/1.mp4",
+      "Title": "RecRoom FreeCam (OpenRecV2 w UE)",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "Community/Videos/1.jpg",
-      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      "SourceUrl": "https://www.youtube.com/watch?v=_mvuiFZx94E&t=144s"
     }
   ]
 }
