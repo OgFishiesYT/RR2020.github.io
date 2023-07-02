@@ -2,7 +2,7 @@
   "FeaturedPlayer": {
     "Id": 910321962,
     "TitleOverride": "Featured cool Player",
-    "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    "UrlOverride": ""
   },
   "FeaturedRoomGroup": {
     "Name": "cool rooms",
@@ -20,8 +20,8 @@
     ]
   },
   "CurrentAnnouncement": {
-    "Message": "OpenRecV2-2020 Is here!",
-    "MoreInfoUrl": "https://discord.gg/m3nEjDhXWd"
+    "Message": "we are ues the RR api now",
+    "MoreInfoUrl": ""
   },
   "InstagramImages": [
     {
@@ -76,25 +76,25 @@
   ],
   "Videos": [
     {
-      "BlobName": "https://ogfishiesyt.github.io/video/RR2020/3.mp4",
-      "Title": "Behind the Scenes: Unreleased Build Used for Rec Room Trailer : Beta Streamer Cam",
-      "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "3.jpg",
-      "SourceUrl": "https://www.youtube.com/watch?v=icZ0rMNj7Qw"
+      "BlobName": "",
+      "Title": "",
+      "Description": "",
+      "ThumbnailBlobName": "",
+      "SourceUrl": ""
     },
     {
-      "BlobName": "https://ogfishiesyt.github.io/video/RR2020/2.mp4",
-      "Title": "Test",
-      "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "IDK.png",
-      "SourceUrl": "https://www.youtube.com/watch?v=J5sW7GDk6AM"
+      "BlobName": "",
+      "Title": "",
+      "Description": "",
+      "ThumbnailBlobName": "",
+      "SourceUrl": ""
     },
     {
-      "BlobName": "http://ogfishiesyt.github.io/video/RR2020/1.mp4",
-      "Title": "RecRoom FreeCam (OpenRecV2 w UE)",
-      "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "Community/Videos/1.jpg",
-      "SourceUrl": "https://www.youtube.com/watch?v=_mvuiFZx94E&t=144s"
+      "BlobName": "",
+      "Title": "",
+      "Description": "",
+      "ThumbnailBlobName": "",
+      "SourceUrl": ""
     }
   ]
 }
